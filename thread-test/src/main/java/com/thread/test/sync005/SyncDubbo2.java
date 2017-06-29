@@ -3,8 +3,6 @@
  */
 package com.thread.test.sync005;
 
-import javax.security.auth.Subject;
-
 /**
  * @author Mr.Wu
  *
