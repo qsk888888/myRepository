@@ -45,7 +45,6 @@ public class ListAdd1 {
 				
 			}
 		},"t1");
-		
 		Thread t2=new Thread(new Runnable() {
 			
 			@Override
